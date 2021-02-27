@@ -5,7 +5,7 @@ Plugin URI: https://github.com/amit7046/Simple-Event
 Description: This is the event create plugin.
 Version: 1.0
 Author: Amit Dudhat
-Author URI: https://github.com/amit7046/Simple-Event
+Author URI: https://github.com/amit7046/
 */
 
 define('EVNT_VERSION', '1.0.0');
